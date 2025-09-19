@@ -6,11 +6,11 @@
     },
     "timing": {
         "startTimestamp": 1758232800000,
-        "timeBetweenFrames": 1800000,
+        "timeBetweenFrames": 900000,
         "loop": true
     },
     "frames": {
-        "baseUrl": "https://github.com/RandomQuetzalcoatl/EvilStare/new/main",
+        "baseUrl": "https://github.com/RandomQuetzalcoatl/EvilStare/blob/main",
         "count": 3,
         "fileExtension": "png"
     }
