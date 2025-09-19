@@ -10,7 +10,7 @@
         "loop": true
     },
     "frames": {
-        "baseUrl": "https://github.com/RandomQuetzalcoatl/EvilStare/blob/main",
+        "baseUrl": "https://raw.githubusercontent.com/RandomQuetzalcoatl/EvilStare/main",
         "count": 3,
         "fileExtension": "png"
     }
