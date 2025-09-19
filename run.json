@@ -1,0 +1,17 @@
+{
+    "positioning": {
+        "x": 256,
+        "y": 153,
+        "width": 79
+    },
+    "timing": {
+        "startTimestamp": 1758232800000,
+        "timeBetweenFrames": 1800000,
+        "loop": true
+    },
+    "frames": {
+        "baseUrl": "https://github.com/RandomQuetzalcoatl/EvilStare/new/main",
+        "count": 3,
+        "fileExtension": "png"
+    }
+}
